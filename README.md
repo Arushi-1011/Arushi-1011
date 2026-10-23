@@ -6,9 +6,6 @@
 
 </div>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1000&color=CDB4FF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;learning%2C+building%2C+and+dreaming+in+code;somewhere+between+logic+and+magic+%F0%9F%8C%99" alt="Animated introduction" />
-
 <br/>
 
 `☾` &nbsp; `✦` &nbsp; `⋆｡°✩` &nbsp; `☁` &nbsp; `✧` &nbsp; `☾`
