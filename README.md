@@ -101,13 +101,13 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arushi-1011&show_icons=true&hide_border=true&bg_color=100B1C&title_color=CDB4FF&text_color=E9DFFF&icon_color=B9A0FF&ring_color=CDB4FF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arushi-1011&show_icons=true&hide_border=true&bg_color=100B1C&title_color=CDB4FF&text_color=E9DFFF&icon_color=B9A0FF&hide=stars,prs,issues,contribs&hide_rank=true" alt="GitHub commit activity" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-1011&layout=compact&hide_border=true&bg_color=100B1C&title_color=CDB4FF&text_color=E9DFFF" alt="Most used programming languages" />
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arushi-1011&style=flat-square&color=7765A8&label=visitors" alt="Profile visitor counter" />
+<sub>☾ quietly building, learning, and getting better with every commit ✦</sub>
 
 </div>
 
