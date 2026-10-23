@@ -34,21 +34,20 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <div align="center">
 
-**languages**
+<p>
+  <strong>languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" alt="Java, C++, Python and JavaScript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" alt="Java, C++, Python and JavaScript" />
+<p>
+  <strong>web &amp; development</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask&theme=dark" alt="HTML, CSS, Node.js, Express and Flask" />
+</p>
 
-<br/>
-
-**web & development**
-
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask&theme=dark" alt="HTML, CSS, Node.js, Express and Flask" />
-
-<br/>
-
-**my tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+<p>
+  <strong>my tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+</p>
 
 </div>
 
