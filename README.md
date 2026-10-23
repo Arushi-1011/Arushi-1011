@@ -66,7 +66,7 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <h3>
   <a href="https://github.com/Arushi-1011/Speech_Therapy">
-    🎙️ Speech Therapy Assistant
+    <img src="https://img.shields.io/badge/🎙️_Speech_Therapy_Assistant-302052?style=flat-square&labelColor=302052" alt="Speech Therapy Assistant" />
   </a>
 </h3>
 
