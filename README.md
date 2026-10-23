@@ -38,13 +38,13 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" alt="Java, C++, Python and JavaScript" />
 
-<br/><br/>
+<br/>
 
 **web & development**
 
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask&theme=dark" alt="HTML, CSS, Node.js, Express and Flask" />
 
-<br/><br/>
+<br/>
 
 **my tools**
 
