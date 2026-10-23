@@ -1,161 +1,94 @@
-# 💜 Arushi | Developer in Progress
+# `arushi@github:~$` 💜
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002B,50:4B0082,100:9D4EDD&height=200&section=header&text=Hey%2C%20I'm%20Arushi!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C4A1FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Arushi+%E2%9C%A8;Computer+Science+Undergrad;Building+things+that+make+me+curious;Currently+debugging+my+way+through+life" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code+%E2%9C%A8;Exploring+AI%2FML+%F0%9F%A4%96;Learning+DSA+one+problem+at+a+time+%F0%9F%92%BB;Turning+ideas+into+projects+%F0%9F%92%9C" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=9D4EDD&style=for-the-badge" alt="Profile views" />
+*somewhere between a semicolon and a breakthrough.*
 
 </div>
 
 ---
 
-## 🌙 A Little About Me
+### `$ whoami`
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Arushi"
-        self.role = "Computer Science Undergraduate"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Structures & Algorithms",
-            "Software Development"
-        ]
-        self.currently_learning = ["C++", "Advanced DSA", "AI/ML"]
-        self.goal = "Build meaningful things with technology"
+I'm a third-year Computer Science undergraduate who loves exploring how technology works — from algorithms and intelligent systems to building things on the web.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool 💜")
-
-
-me = Developer()
-me.say_hi()
-```
-
-- 🎓 Third-year Computer Science undergraduate
-- 💻 Exploring the intersection of software engineering and AI
-- 🧠 Strengthening my problem-solving and algorithmic thinking
-- 🚀 Building projects that combine creativity with technology
-- 🌱 Always learning, always experimenting
-
-> *A little curiosity, a lot of code, and one more problem to solve.*
+- 🎓 Computer Science & Engineering
+- 🧠 Currently exploring AI/ML and advanced DSA
+- 💻 Interested in software engineering and problem-solving
+- 🌱 Learning something new, one project at a time
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### `$ ls ~/tech-stack`
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,flask,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## 💜 Featured Projects
+### `$ cd ~/projects`
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎙️ Speech Therapy Assistant
+
+Exploring speech processing and machine learning to build a tool that can analyze speech characteristics and provide useful feedback.
+
+`Python` `Librosa` `ML`
+
+</td>
+<td width="50%">
+
+#### 📚 BookChain / SwapSafe
+
+A student-focused platform concept for exchanging books and academic resources — making learning resources easier to access.
+
+`JavaScript` `Node.js` `Express`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arushi-1011&show_icons=true&theme=midnight-purple" />
-</a>
-
-</div>
-
-### 🎙️ Speech Therapy Assistant
-
-An AI-powered project exploring speech analysis and feedback for individuals with speech difficulties.
-
-- 🎧 Audio feature extraction and speech processing
-- 🧠 Exploring speech representations using machine learning
-- 📊 Working with acoustic features such as MFCCs, pitch, and spectral characteristics
-
-**Tech:** Python · Librosa · Machine Learning
-
-### 📚 BookChain / SwapSafe
-
-A student-focused platform concept for buying, selling, and exchanging books and academic resources.
-
-- 📖 Making academic resources more accessible
-- 🔄 Encouraging reuse and exchange among students
-- 🌐 Exploring full-stack web development
-
-**Tech:** HTML · CSS · JavaScript · Node.js · Express.js
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Arushi-1011?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20projects-9D4EDD?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+### `$ git log --oneline`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arushi-1011&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A1FF&icon_color=9D4EDD&text_color=E6EDF3&ring_color=C4A1FF" height="165" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-1011&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A1FF&text_color=E6EDF3" height="165" />
 
 </div>
 
 ---
 
-## 🐍 A Little Contribution Magic
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
+### `while(alive) { keep_building(); }` ✨
 
 <a href="https://www.linkedin.com/in/arushi-srivastava-5aa349339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-C4A1FF?style=flat-square&logo=linkedin&logoColor=black" />
+</a>
+<a href="mailto:arushisrivastiva3109@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-9D4EDD?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:arushisrivastava3109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-C084FC?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Arushi-1011">
-  <img src="https://img.shields.io/badge/GitHub-Follow-6B21A8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4B0082,100:12002B&height=120&section=footer" width="100%" />
-
-**Thanks for visiting my little corner of GitHub! 💜**
-
-<sub>Made with curiosity, caffeine, and a little bit of magic ✨</sub>
+<sub>made with curiosity & a suspicious amount of caffeine ☕</sub>
 
 </div>
