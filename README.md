@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./pixel-banner.png" width="100%" alt="Arushi's pixel-art coding banner" />
+<img src="./banner.png" width="100%" alt="coding banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=CDB4FF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;learning%2C+building%2C+and+dreaming+in+code+%F0%9F%8C%99" alt="Animated introduction" />
 
