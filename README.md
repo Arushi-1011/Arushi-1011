@@ -143,7 +143,7 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
   <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-302052?style=for-the-badge&logo=github&logoColor=CDB4FF" alt="Explore all projects" />
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>☾ making things, learning things, getting a little better every day ✦</sub>
 
