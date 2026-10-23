@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="coding banner" />
+<img src="./banner.png" width="100%" alt="Arushi's dreamy pixel-art coding banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=CDB4FF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;learning%2C+building%2C+and+dreaming+in+code+%F0%9F%8C%99" alt="Animated introduction" />
-
-</div>
 
 <br/>
 
@@ -40,13 +38,13 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" alt="Java, C++, Python and JavaScript" />
 
-<br/>
+<br/><br/>
 
 **web & development**
 
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask&theme=dark" alt="HTML, CSS, Node.js, Express and Flask" />
 
-<br/>
+<br/><br/>
 
 **my tools**
 
@@ -62,24 +60,28 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Speech Therapy Assistant
+<h3>🎙️ Speech Therapy Assistant</h3>
 
-Exploring speech analysis through audio processing and machine learning.
+<p>Exploring speech analysis through audio processing and machine learning.</p>
 
-The project experiments with acoustic features and speech representations to investigate how voice characteristics can be analyzed.
+<p>The project experiments with acoustic features and speech representations to investigate how voice characteristics can be analyzed.</p>
 
-**exploring:** `Python` · `Librosa` · `Audio ML`
+<p><strong>exploring:</strong></p>
+
+<p><code>Python</code> <code>Librosa</code> <code>Audio ML</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 BookChain / SwapSafe
+<h3>📚 BookChain / SwapSafe</h3>
 
-A student-focused project concept for making books and academic resources easier to exchange and reuse.
+<p>A student-focused project concept for making books and academic resources easier to exchange and reuse.</p>
 
-The idea combines a simple web experience with a more accessible way for students to share learning resources.
+<p>The idea combines a simple web experience with a more accessible way for students to share learning resources.</p>
 
-**exploring:** `JavaScript` · `Node.js` · `Express`
+<p><strong>exploring:</strong></p>
+
+<p><code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
 
 </td>
 </tr>
@@ -88,7 +90,7 @@ The idea combines a simple web experience with a more accessible way for student
 <div align="center">
 
 <a href="https://github.com/Arushi-1011?tab=repositories">
-  <img src="https://img.shields.io/badge/wander%20through%20my%20repositories-302052?style=for-the-badge&logo=github&logoColor=CDB4FF" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/wander%20through%20my%20repositories-302052?style=for-the-badge&logo=github&logoColor=CDB4FF" alt="Explore my repositories" />
 </a>
 
 </div>
@@ -103,9 +105,9 @@ The idea combines a simple web experience with a more accessible way for student
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-1011&layout=compact&hide_border=true&bg_color=100B1C&title_color=CDB4FF&text_color=E9DFFF" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arushi-1011&style=flat-square&color=7765A8&label=stargazers+passing+by" alt="Profile visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=Arushi-1011&style=flat-square&color=7765A8&label=visitors" alt="Profile visitor counter" />
 
 </div>
 
@@ -121,7 +123,7 @@ The idea combines a simple web experience with a more accessible way for student
 <a href="https://www.linkedin.com/in/arushi-srivastava-5aa349339/">
   <img src="https://img.shields.io/badge/LinkedIn-302052?style=for-the-badge&logo=linkedin&logoColor=CDB4FF" alt="LinkedIn" />
 </a>
-<a href="mailto:arushisrivastiva3109@gmail.com">
+<a href="mailto:arushisrivastava3109@gmail.com">
   <img src="https://img.shields.io/badge/Email-302052?style=for-the-badge&logo=gmail&logoColor=CDB4FF" alt="Email" />
 </a>
 
@@ -131,6 +133,6 @@ The idea combines a simple web experience with a more accessible way for student
 
 `made with ♡, curiosity, and a little moonlight`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7765A8,50:302052,100:100B1C&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7765A8,50:302052,100:100B1C&height=100&section=footer" width="100%" alt="Purple wave footer" />
 
 </div>
