@@ -66,7 +66,7 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <h3>
   <a href="https://github.com/Arushi-1011/Speech_Therapy">
-    <img src="https://img.shields.io/badge/🎙️_Speech_Therapy_Assistant-302052?style=flat-square&labelColor=302052" alt="Speech Therapy Assistant" />
+    <img src="https://img.shields.io/badge/🎙️_Speech_Therapy_Assistant-302052?style=for-the-badge&labelColor=302052" alt="Speech Therapy Assistant" />
   </a>
 </h3>
 
@@ -89,7 +89,7 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <h3>
   <a href="https://github.com/Arushi-1011/pipsgarden">
-    🌷 Flower Collector
+    <img src="https://img.shields.io/badge/🌷_Flower_Collector-302052?style=for-the-badge&labelColor=302052" alt="Flower Collector" />
   </a>
 </h3>
 
@@ -114,7 +114,7 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <h3>
   <a href="https://github.com/Arushi-1011/BookChain-SwapSafe-">
-    📚 BookChain / SwapSafe
+    <img src="https://img.shields.io/badge/📚_BookChain_SwapSafe-302052?style=for-the-badge&labelColor=302052" alt="BookChain / SwapSafe" />
   </a>
 </h3>
 
