@@ -64,7 +64,11 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎙️ Speech Therapy Assistant</h3>
+<h3>
+  <a href="https://github.com/Arushi-1011/Speech_Therapy">
+    🎙️ Speech Therapy Assistant
+  </a>
+</h3>
 
 <p>
   Exploring speech analysis using audio processing and machine learning.
@@ -83,7 +87,11 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌷 Flower Collector</h3>
+<h3>
+  <a href="https://github.com/Arushi-1011/pipsgarden">
+    🌷 Flower Collector
+  </a>
+</h3>
 
 <p>
   A cute browser game where players collect flowers, race against
@@ -104,7 +112,11 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 <tr>
 <td colspan="2" valign="top">
 
-<h3>📚 BookChain / SwapSafe</h3>
+<h3>
+  <a href="https://github.com/Arushi-1011/BookChain-SwapSafe-">
+    📚 BookChain / SwapSafe
+  </a>
+</h3>
 
 <p>
   A student-focused platform concept for exchanging and reusing
