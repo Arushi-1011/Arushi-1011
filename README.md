@@ -1,6 +1,11 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1C,45:302052,75:7765A8,100:CDB4FF&height=210&section=header&text=Arushi%20%E2%9C%A6&fontSize=58&fontColor=F8F2FF&animation=fadeIn&fontAlignY=38&desc=computer%20science%20%7C%20curiosity%20%7C%20code&descSize=15&descAlignY=60&descColor=E9DFFF" width="100%" />
+<img src="./pixel-banner.png" width="100%" alt="Arushi's pixel-art coding banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=CDB4FF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;learning%2C+building%2C+and+dreaming+in+code+%F0%9F%8C%99" alt="Animated introduction" />
+
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1000&color=CDB4FF&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;learning%2C+building%2C+and+dreaming+in+code;somewhere+between+logic+and+magic+%F0%9F%8C%99" alt="Animated introduction" />
 
