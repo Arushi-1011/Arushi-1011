@@ -56,32 +56,69 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 ## ☁️ little things i've been building
 
+<p align="center">
+  <i>little ideas, late-night coding, and things I'm learning to bring to life.</i>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>🎙️ Speech Therapy Assistant</h3>
 
-<p>Exploring speech analysis through audio processing and machine learning.</p>
+<p>
+  Exploring speech analysis using audio processing and machine learning.
+  The project investigates acoustic features and speech representations
+  to understand voice characteristics.
+</p>
 
-<p>The project experiments with acoustic features and speech representations to investigate how voice characteristics can be analyzed.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-302052?style=flat-square&logo=python&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/Librosa-302052?style=flat-square&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/ML-CDB4FF?style=flat-square&logoColor=100B1C" />
+</p>
 
-<p><strong>exploring:</strong></p>
-
-<p><code>Python</code> <code>Librosa</code> <code>Audio ML</code></p>
+<p><sub>✦ AUDIO PROCESSING · MACHINE LEARNING</sub></p>
 
 </td>
 <td width="50%" valign="top">
 
+<h3>🌷 Flower Collector</h3>
+
+<p>
+  A cute browser game where players collect flowers, race against
+  the timer, and try to beat their best score.
+  A little experiment in interactive web development.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-302052?style=flat-square&logo=html5&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/CSS3-302052?style=flat-square&logo=css&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/JavaScript-302052?style=flat-square&logo=javascript&logoColor=CDB4FF" />
+</p>
+
+<p><sub>✦ WEB DEVELOPMENT · GAME LOGIC</sub></p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 <h3>📚 BookChain / SwapSafe</h3>
 
-<p>A student-focused project concept for making books and academic resources easier to exchange and reuse.</p>
+<p>
+  A student-focused platform concept for exchanging and reusing
+  books and academic resources. Exploring ways to make learning
+  materials more accessible to students.
+</p>
 
-<p>The idea combines a simple web experience with a more accessible way for students to share learning resources.</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-302052?style=flat-square&logo=javascript&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/Node.js-302052?style=flat-square&logo=nodedotjs&logoColor=CDB4FF" />
+  <img src="https://img.shields.io/badge/Express-302052?style=flat-square&logo=express&logoColor=CDB4FF" />
+</p>
 
-<p><strong>exploring:</strong></p>
-
-<p><code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
+<p><sub>✦ FULL-STACK DEVELOPMENT · PROJECT CONCEPT</sub></p>
 
 </td>
 </tr>
@@ -89,9 +126,15 @@ i'm interested in the intersection of problem-solving, intelligent systems, and 
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/Arushi-1011?tab=repositories">
-  <img src="https://img.shields.io/badge/wander%20through%20my%20repositories-302052?style=for-the-badge&logo=github&logoColor=CDB4FF" alt="Explore my repositories" />
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-302052?style=for-the-badge&logo=github&logoColor=CDB4FF" alt="Explore all projects" />
 </a>
+
+<br/><br/>
+
+<sub>☾ making things, learning things, getting a little better every day ✦</sub>
 
 </div>
 
